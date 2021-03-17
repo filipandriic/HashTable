@@ -1,0 +1,6 @@
+en,Avatar,2009-12-10,2787965087,162
+en,"Monsters, Inc.",2001-11-01,562816256,92
+en,Pirates of the Caribbean: At World's End,2007-05-19,961000000,169
+en,Spectre,2015-10-26,880674609,148
+en,The Dark Knight Rises,2012-07-16,1084939099,165
+en,Toy Story 3,2010-06-16,1066969703,103

@@ -1,0 +1,9 @@
+﻿  HashTable.cpp
+c:\users\filip\desktop\c++\dz3p1\dz3p1\hashtable.cpp(145): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\c++\dz3p1\dz3p1\hashtable.cpp(156): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\c++\dz3p1\dz3p1\hashtable.cpp(169): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\c++\dz3p1\dz3p1\hashtable.cpp(176): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\c++\dz3p1\dz3p1\hashtable.cpp(177): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  dz3p1.vcxproj -> C:\Users\Filip\Desktop\C++\dz3p1\x64\Debug\dz3p1.exe
